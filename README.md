@@ -1,2 +1,2 @@
 # prueba
-Repositorio de prueba
+Repositorio de prueba para el módulo LMGSI
